@@ -11,7 +11,7 @@
     "picturefill": "3.0.2",
     "postcss-import": "^10.0.0",
     "postcss-mixins": "^6.0.1",
-    "waypoints": "4.0.1"
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "7.1.2",
