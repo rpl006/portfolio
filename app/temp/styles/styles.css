@@ -1133,13 +1133,13 @@ a{
 }
 
 .site-header--is-expanded{
-    background-color: rgba(47,85,114, .7);
+    background-color: rgba(#2f5572, .7);
   }
 
 @media(min-width: 800px){
 
 .site-header {
-    background-color: rgba(47,85,114, .3)
+    background-color: rgba(#2f5572, .3)
 }
     }
 
@@ -1339,7 +1339,7 @@ padding-top: 10px;
     display: block;
     padding: 5px 8px;
     font-size: .8rem;
-    background-color: rgba(47,85,114, .5);
+    background-color: rgba(#2f5572, .5);
   }
 
 @media(min-width: 800px){
