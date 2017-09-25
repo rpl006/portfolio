@@ -11123,6 +11123,8 @@ new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "60%");
 var stickyHeader = new _StickyHeader2.default();
 var modal = new _Modal2.default();
 
+var slider = new SectionSlider();
+
 /***/ }),
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
