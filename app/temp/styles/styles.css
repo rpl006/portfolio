@@ -1457,6 +1457,8 @@ padding-top: 10px;
 			color: #d59541;
 		}
 
+/*@import "modules/_slider";*/
+
 .social-icons{
 	text-align: center;
 }
@@ -1486,3 +1488,4 @@ padding-top: 10px;
 			-webkit-transform: translate(-50%, -50%);
 			        transform: translate(-50%, -50%);
 		} 
+
