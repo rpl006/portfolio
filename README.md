@@ -1,7 +1,8 @@
-Landing Page
+
 
 
 ## App Info
+Responsive landing page developed using node.js, gulp, Post CSS ,webpack and modern web tools.
 
 ### Author
 
